@@ -89,5 +89,5 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 # Contact
 For any inquiries or feedback, please contact the authors:
 
-SUNIL: sunilvenkatachalam313@gmail.com
+RITHIKA :srithika00@gmail.com
 SURIYA KUMAR: suriyakumar.vijayanayagam@gmail.com
