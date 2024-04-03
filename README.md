@@ -23,7 +23,7 @@ Clone the repository:
 
 # bash
 Copy code
-git clone https://github.com/your-username/emotion-classification-cnn.git
+git clone https://github.com/rithikashree274/emotion-classification-cnn.git
 cd emotion-classification-cnn
 Prepare the dataset:
 
